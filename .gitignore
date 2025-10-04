@@ -1,2 +1,4 @@
-./upi_transactions.csv
+upi_transactions.csv
+External_Cibil_Dataset.csv
+Internal_Bank_Dataset.csv
 ./.vscode/*
